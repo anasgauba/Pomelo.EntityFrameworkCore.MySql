@@ -48,6 +48,7 @@
     <PackageVersion Include="xunit.runner.visualstudio" Version="2.8.2" />
     <PackageVersion Include="DotNetAnalyzers.DocumentationAnalyzers" Version="1.0.0-beta.59" />
     <PackageVersion Include="StyleCop.Analyzers" Version="1.1.118" PrivateAssets="All" />
+    <PackageVersion Include="Shouldly" Version="4.0.3" />
 
     <!-- Needed when using EFCore.Design assembly from local EF Core repository. -->
     <PackageVersion Include="Microsoft.CodeAnalysis" Version="4.10.0" />
